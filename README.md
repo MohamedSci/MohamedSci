@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# Here is Mohamed Said Ibrahim
+
 # 💫 About Me:
 🚀 I am a Test Automation Engineer & Flutter Developer dedicated to building resilient, high-performance applications. My philosophy is simple: Code is only as good as its test suite. I bridge the gap between development and quality assurance by building scalable automation frameworks and intuitive mobile experiences.<br><br>🛠️ Currently working on: Enhancing the Jira-to-Azure-DevOps-Migration-Script for enterprise-level scalability.<br>🧪 Expertise: Advanced Selenium/Appium frameworks, Flutter/Dart development, and CI/CD pipeline integration.<br>✍️ Writing: I regularly share deep-dives into QA strategies and Flutter tips on Medium.<br>💬 Ask me about: Why your automation suite is flaky and how we can fix it.<br>⚡ Fun Fact: I treat my test scripts like production code—clean, modular, and built to last.<br><br>🛠️ Tech Stack & Tools<br><br>Automation: Selenium, Appium, PyTest, JUnit, RestAssured.<br>Development: Flutter, Dart, Python, Java.<br>DevOps: Jenkins, GitHub Actions, Azure DevOps.
 
